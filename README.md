@@ -1,3 +1,8 @@
 # PongPC
 
-PongPC is a GUI that allows the user to play single player pong.
+A GUI to play pong.
+
+Instructions:
+
+Import to Netbeans.
+Run Game.java. 
